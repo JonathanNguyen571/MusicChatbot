@@ -54,3 +54,6 @@ nltk
 - Sample text files stored in the cleaned_text directory.
 - Extracted important terms printed to the console.
 - Feel free to explore each component and enjoy interacting with song lyrics using our chatbot!
+
+### Disclaimer: Explicit Content
+Please be aware that the web crawler component of this project retrieves data from various websites related to song lyrics. While efforts have been made to filter out explicit content, it's essential to understand that the internet is vast and dynamic, and some websites may contain material that some users may find explicit or inappropriate.
